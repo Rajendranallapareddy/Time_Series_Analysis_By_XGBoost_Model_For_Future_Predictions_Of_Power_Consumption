@@ -1,0 +1,12 @@
+flask
+flask-session
+pandas
+numpy
+scikit-learn
+umap-learn
+matplotlib
+seaborn
+xgboost
+joblib
+bcrypt
+gunicorn
